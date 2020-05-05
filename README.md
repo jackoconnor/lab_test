@@ -13,6 +13,8 @@ Lets code this formula into a function which takes as its inputs:
 
 and outputs an approximation for the derivative using the formula:
 
+![Image of Yaktocat](first_diff.png)
+
 $$\frac{df}{dx} = \frac{f(x+h) - f(x)}h $$
 
 {% next %}
