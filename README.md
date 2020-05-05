@@ -18,6 +18,7 @@ and outputs an approximation for the derivative using the formula:
 {% next %}
 
 Now let's use our previous work to approximate the derviative of: 
+
 ![Function](function.png)
 
 at x = 5 using h = 0.01.
@@ -27,5 +28,5 @@ at x = 5 using h = 0.01.
 Lastly, we will plot the function and it's derivative on the interval \[-4, 4].
 
 {% spoiler %}
-The interval \[-4, 4] is the same thing as saying -4 <= x <= 4. 
+The interval \[-4, 4] is the same thing as saying that -4 <= x <= 4. 
 {% endspoiler %}
